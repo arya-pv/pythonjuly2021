@@ -1,0 +1,23 @@
+/* tag name or id or class name */
+/* {
+    property :value:
+    property:value:
+    .
+    .
+    .
+
+
+} */
+
+h1{
+    color:red;
+}
+#htwo{
+    color:hsl(350, 80%, 20%)
+}
+#second{
+    color:indigo
+}
+.third{
+    color:olive
+}
