@@ -1,4 +1,4 @@
-div{
+ div{
     /* units */
     width:32%;
     height:400px;
@@ -29,5 +29,8 @@ img{
 .section2 img{
     height:75%;
     
+    
+}
+@media(max-width:500px){
     
 }
